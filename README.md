@@ -1,4 +1,6 @@
-# Storage Foundation API Explainer
+# Storage Foundation API Explainer (Archived)
+
+🚫 **This project is no longer maintained.**
 
 > **Note:** We are working on a new API surface that will replace this proposal.
 > Check out [Access
